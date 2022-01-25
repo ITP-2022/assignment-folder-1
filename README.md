@@ -71,7 +71,7 @@ Enter elements---->
 **Output 2**: 
 There is no perfect number.
 
-**Reference**
+**Reference** </br>
 https://www.geeksforgeeks.org/program-for-armstrong-numbers/ </br>
 https://www.geeksforgeeks.org/perfect-number/ </br>
 https://www.geeksforgeeks.org/sum-factors-number/ </br>
