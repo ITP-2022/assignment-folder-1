@@ -8,7 +8,7 @@ Team Members
 |IEC2021008	    |	Pragya Pal    |pragya1976      |
 |IEC2021009	    |	Ayush Chandra |AyushC24        |
 
-Group N0-2  <br />
+Group No-2  <br />
 Faculty Name-Dr. Mohammed Javed <br />
 Mentor Name-Md. Meraz <br />
 
