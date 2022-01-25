@@ -1,7 +1,7 @@
 Team Members
 
 |Enrollment No. |	    Name	    | GithubId       |
-|................................................|
+|---------------|:-------------:|---------------:|
 |IEC2021005     |	Gaurav Sahay  |gauravsahay007  |
 |IEC2021006     |	Ansh Kothari  |anshgeez31      |
 |IEC2021007	    |	Sonali Gupta  |sona-123        |
