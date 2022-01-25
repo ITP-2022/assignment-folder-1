@@ -17,7 +17,7 @@ Given an unsorted array of N numbers, Find the sum of all the perfect numbers an
 
 **Contribution**: <br />
 |**Enrollment No.**|    **Name**	    | **Contribution**     |
-|--------------- |:--------------:|---------------:|
+|--------------- |:--------------:|:---------------|
 |IEC2021005      |	Gaurav Sahay  |Report,Code  |
 |IEC2021006      |	Ansh Kothari  |Report,PPT,Algorithm Design    |
 |IEC2021007	     |	Sonali Gupta  |Introduction(Report)      |
