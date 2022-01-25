@@ -14,3 +14,12 @@
 
 **Problem Statment:**
 Given an unsorted array of N numbers, Find the sum of all the perfect numbers and check whether it is Armstrong number or not.
+
+**Contribution**: <br />
+|**Enrollment No.**|    **Name**	    | **Contribution**     |
+|--------------- |:--------------:|---------------:|
+|IEC2021005      |	Gaurav Sahay  |Report,Code  |
+|IEC2021006      |	Ansh Kothari  |Report,PPT,Algorithm Design    |
+|IEC2021007	     |	Sonali Gupta  |Introduction(Report)      |
+|IEC2021008	     |	Pragya Pal    |Time complexity(Report)     |
+|IEC2021009	     |	Ayush Chandra |Code Design      |
