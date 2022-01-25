@@ -24,48 +24,48 @@ Given an unsorted array of N numbers, Find the sum of all the perfect numbers an
 |IEC2021008	     |	Pragya Pal    |Time complexity(Report)     |
 |IEC2021009	     |	Ayush Chandra |Code Design      |
 
-**Introduction**
+**Introduction**<br />
 Given an array arr[] of size n, we will find the sum of all the perfect numbers and further we will check whether the sum is an Armstrong number or not.
-A perfect number is a positive integer that is equal to the sum of all its proper positive divisors excluding the number itself. For e.g.: 6,28, 256, etc. 6 is a perfect number because the proper divisor of 6 are 1,2,3 (excluding 6) and sum of all its positive divisors (1+2+3) is 6.
+A perfect number is a positive integer that is equal to the sum of all its proper positive divisors excluding the number itself. For e.g.: 6,28, 256, etc. 6 is a perfect number because the proper divisor of 6 are 1,2,3 (excluding 6) and sum of all its positive divisors (1+2+3) is 6.<br />
 An Armstrong number of order n is a number in which each digit when multiplied by itself n number of times and finally added together, results the same number. For eg: 371 is a three-digit number. Therefore, order=3. now, here each digit is multiplied by itself three times and finally added together and results in our original number. For e.g.:
 (3*3*3+7*7*7+1*1*1) = (27+343+1) = 371
 
-**How to use code**
-1. Type following command in git bash:
-2. Git clone https://github.com/ITP-2022/assignment-folder-1.git
-3. Now go to the directory where you cloned the repo
-4. Go to the ass. 1 directory
-5. Now run code.c
+**How to use code**<br />
+1. Type following command in git bash:<br />
+2. Git clone https://github.com/ITP-2022/assignment-folder-1.git<br />
+3. Now go to the directory where you cloned the repo<br />
+4. Go to the ass. 1 directory<br />
+5. Now run code.c<br />
 
 
-**Test case**
-**Input 1**: 
-Enter number of elements:9
-Enter elements---->
-12
-32 
-6 
-28 
-496 
-32 
-54 
-543
- 54 
+**Test case** <br />
+**Input 1**: <br />
+Enter number of elements:9 <br />
+Enter elements----><br />
+12<br />
+32 <br />
+6 <br />
+28 <br />
+496 <br />
+32 <br />
+54 <br />
+543<br />
+ 54 <br />
 
-**Output 1**:
-6 is a perfect number 
-28 is a perfect number 
-496 is a perfect number 
-530 is the sum of the perfect numbers
-530 is not an Armstrong Number
+**Output 1**:<br />
+6 is a perfect number <br />
+28 is a perfect number <br />
+496 is a perfect number <br />
+530 is the sum of the perfect numbers<br />
+530 is not an Armstrong Number<br />
 
-**Input 2**: 
-Enter number of elements:4
-Enter elements----> 
-12
-34
-56 
-76
+**Input 2**: <br />
+Enter number of elements:4<br />
+Enter elements----> <br />
+12<br />
+34<br />
+56 <br />
+76<br />
 
-**Output 2**: 
+**Output 2**: <br />
 There is no perfect number.
