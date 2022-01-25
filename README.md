@@ -72,8 +72,8 @@ Enter elements---->
 There is no perfect number.
 
 **Reference**
-https://www.geeksforgeeks.org/program-for-armstrong-numbers/
-https://www.geeksforgeeks.org/perfect-number/
-https://www.geeksforgeeks.org/sum-factors-number/
-“Let us C”- book by Yashavant Kanetkar 
+https://www.geeksforgeeks.org/program-for-armstrong-numbers/ </br>
+https://www.geeksforgeeks.org/perfect-number/ </br>
+https://www.geeksforgeeks.org/sum-factors-number/ </br>
+“Let us C”- book by Yashavant Kanetkar </br>
 
