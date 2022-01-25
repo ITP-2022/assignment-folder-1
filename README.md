@@ -70,3 +70,10 @@ Enter elements---->
 
 **Output 2**: 
 There is no perfect number.
+
+**Reference**
+https://www.geeksforgeeks.org/program-for-armstrong-numbers/
+https://www.geeksforgeeks.org/perfect-number/
+https://www.geeksforgeeks.org/sum-factors-number/
+“Let us C”- book by Yashavant Kanetkar 
+
