@@ -31,37 +31,41 @@ An Armstrong number of order n is a number in which each digit when multiplied b
 (3*3*3+7*7*7+1*1*1) = (27+343+1) = 371
 
 **How to use code**
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
+1. Type following command in git bash:
+2. Git clone https://github.com/ITP-2022/assignment-folder-1.git
+3. Now go to the directory where you cloned the repo
+4. Go to the ass. 1 directory
+5. Now run code.c
 
-#Download project
 
 **Test case**
-Enter number of elements:9     
-Enter elements---->12
-
-Input 1:
-32
-6
-28
-496
-32
-54
+**Input 1**: 
+Enter number of elements:9
+Enter elements---->
+12
+32 
+6 
+28 
+496 
+32 
+54 
 543
-54
-Output:
-6  is a perfect number
-28  is a perfect number
-496  is a perfect number
-530  is the sum of the perfect numbers
+ 54 
+
+**Output 1**:
+6 is a perfect number 
+28 is a perfect number 
+496 is a perfect number 
+530 is the sum of the perfect numbers
 530 is not an Armstrong Number
 
-Input 2:
+**Input 2**: 
 Enter number of elements:4
-Enter elements---->12
-
-Input 2:
+Enter elements----> 
+12
 34
-56
+56 
 76
-Output:
-There is no perfect number
+
+**Output 2**: 
+There is no perfect number.
